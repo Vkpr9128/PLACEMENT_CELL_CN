@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "placement-Cell",
+			"path": "../placement-Cell"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "placement-Cell"
+	}
+}
