@@ -25,7 +25,3 @@ const userSchema = new mongoose.Schema(
 userSchema.methods.isValidatePassword = async function (userSentPassword) {
   return this.password === userSentPassword;
 };
-
-const User = new mongoose.model("User", userSchema);
-
-module.exports = User;
