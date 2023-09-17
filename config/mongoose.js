@@ -2,8 +2,8 @@
 const mongoose = require("mongoose");
 
 //connecting to the database
-mongoose.connect(
-  "mongodb+srv://Nitish:nitish33@cluster0.ksobj.mongodb.net/Ecommerce?retryWrites=true&w=majority"
+mongoose.connect
+  ("mongodb+srv://vkashrai:vkashrai123@cluster0.fg7alpm.mongodb.net/skilltag"
 );
 
 // acquiring the connection to check if it is succesfull
